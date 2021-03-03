@@ -1,0 +1,40 @@
+.bg-1{
+    background-image: url(img/bg-1.png);
+    background-size: 5%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.more-link{
+    color: orange;
+    text-decoration: none;
+}
+p{
+    color: gray;
+}
+.card{
+    border: 0;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.cat-img{
+    border: 2px solid;
+    width: 200px;
+    padding: 40px 40px;
+    margin: 20px 20px;
+}
+.underline-block{
+    width: 100px;
+    height: 8px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #ff8206, #ffff00);
+  }
+  
+#perfume, #shoe{
+      border-radius: 25px 5px 25px 5px;
+  }
+#bag{
+    border-radius: 5px 25px 5px 25px;
+}
